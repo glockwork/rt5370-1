@@ -20,8 +20,8 @@ rt2870.o/rt2870.ko
 =======================================================================
 Supporting Kernel:
 ===================
-linux kernel 2.4 and 2.6 series. 
-Tested in Redhat 7.3 or later.
+linux kernel 2.4, 2.6 and 3.18 series. 
+Tested in Redhat 7.3 and ArchLinux.
 
 
 =======================================================================
